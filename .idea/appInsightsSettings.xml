@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.project.zariya" />
+                  <option name="mobileSdkAppId" value="1:479209115987:android:d89d03385628e2686c91a6" />
+                  <option name="projectId" value="zariya-494ac" />
+                  <option name="projectNumber" value="479209115987" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

@@ -1,3 +1,47 @@
 <resources>
     <string name="app_name">Zariya</string>
+    <string name="widget_description">Shows your next medication, time remaining, and daily dose progress</string>
+
+    <!-- Notification Channels -->
+    <string name="channel_reminders">Medication Reminders</string>
+    <string name="channel_reminders_desc">Alerts for scheduled medication doses</string>
+    <string name="channel_refill">Refill Alerts</string>
+    <string name="channel_refill_desc">Notifications when medication stock is running low</string>
+    <string name="channel_caregiver">Caregiver Alerts</string>
+    <string name="channel_caregiver_desc">Notifications about linked family member medication status</string>
+
+    <!-- Profile Types -->
+    <string name="profile_self">Self</string>
+    <string name="profile_parent">Parent</string>
+    <string name="profile_child">Child</string>
+    <string name="profile_grandparent">Grandparent</string>
+    <string name="profile_custom">Custom</string>
+
+    <!-- Medicine Forms -->
+    <string name="form_tablet">Tablet</string>
+    <string name="form_capsule">Capsule</string>
+    <string name="form_syrup">Syrup</string>
+    <string name="form_injection">Injection</string>
+    <string name="form_drops">Drops</string>
+    <string name="form_inhaler">Inhaler</string>
+    <string name="form_cream">Cream</string>
+    <string name="form_patch">Patch</string>
+
+    <!-- Dose Status -->
+    <string name="status_taken">Taken</string>
+    <string name="status_missed">Missed</string>
+    <string name="status_skipped">Skipped</string>
+    <string name="status_snoozed">Snoozed</string>
+    <string name="status_pending">Pending</string>
+
+    <!-- Actions -->
+    <string name="action_take">Take</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_snooze">Snooze</string>
+    <string name="action_add_medicine">Add Medicine</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
 </resources>
